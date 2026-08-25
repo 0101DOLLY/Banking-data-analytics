@@ -1,0 +1,84 @@
+🏦 Banking Data Analytics Project
+
+📌 Project Overview
+This is an end-to-end **Banking Data Analytics project** focused on analyzing customer, banking, and transaction data to generate meaningful business insights and future predictions.
+
+The project uses three datasets:
+1.Bank Data
+2.Customer Data
+3.Transaction Data
+
+The datasets are processed and analyzed using Python, SQL, Machine Learning, and Power BI as different stages of the project.
+ 
+🔄 Project Workflow
+
+1.Data Collection
+↓
+2.Python – Data Cleaning & Transformation
+↓
+3.Data Merging & Final Dataset Creation
+↓
+4.Python → MySQL Server Connection
+↓
+5.SQL Business Analysis
+↓
+6.Machine Learning – Future Prediction
+↓
+7.Power BI – Interactive Dashboard
+
+## Current Stage — Python
+The current phase focuses on preparing the banking datasets using Python.
+
+Key activities include:
+
+* Data understanding and exploration
+* Data cleaning
+* Missing-value handling
+* Data transformation
+* Data type correction
+* Dataset merging
+* Creation of the final consolidated dataset
+
+After completing the Python data preparation, the final dataset has been connected with **MySQL Server** for the next stage of analysis.
+
+🗄️ Next Stage — SQL Analysis
+The next step of the project is **SQL-based business analysis.
+
+The objective is to develop and answer business questions using the final dataset and extract meaningful insights related to:
+
+* Customer behavior
+* Account types
+* Transactions
+* Balances
+* Investments
+* Customer segments
+* Banking performance
+* Regional trends
+
+🤖 Future Stage — Machine Learning
+
+After completing the SQL analysis, Machine Learning techniques will be applied to the prepared banking data.
+
+The objective will be to identify patterns and build models for future prediction.
+
+📊 Final Stage — Power BI Dashboard
+The final stage will transform the analytical results into an interactive Power BI dashboard.
+
+The dashboard will provide a visual representation of key business insights, trends, customer behavior, transaction performance, and other important banking metrics.
+
+🛠️ Technologies Used
+
+**Python | Pandas | SQL | MySQL | Machine Learning | Power BI**
+
+🎯 Project Objective
+The main objective is to build a complete data analytics pipeline that transforms raw banking data into **clean data, business insights, predictive analysis, and interactive visualizations**.
+
+📌 Current Project Status
+✅ Python Data Cleaning & Transformation
+✅ Data Merging & Final Dataset Creation
+✅ Python–MySQL Server Connection
+🔄 SQL Business Analysis — **Next Step**
+⏳ Machine Learning & Future Prediction
+⏳ Power BI Dashboard
+
+
