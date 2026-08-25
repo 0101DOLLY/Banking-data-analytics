@@ -48,8 +48,3 @@ The datasets can be connected using common identifiers:
 
 These relationships allow the datasets to be combined and analyzed as a consolidated banking dataset.
 
-🎯 Purpose of the Dataset
-The datasets are being used to build an end-to-end **Banking Data Analytics project**, covering:
-
->>Data Cleaning → Data Transformation → Data Merging → Python–MySQL Integration → SQL Business Analysis → Machine Learning Prediction → Power BI Dashboard**
-
